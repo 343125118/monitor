@@ -1,0 +1,15 @@
+  2024-06-25 18:48  INFO monitor: Init Screen Monitor...
+    at src/main.rs:36
+
+  2024-06-25 18:48  INFO monitor::core::manager: build task  with id 489e3a63-1bea-4db8-ba83-6fc3d3491017
+    at src/core/manager.rs:46
+
+  2024-06-25 18:48  INFO monitor::core::manager: Started task  with id 489e3a63-1bea-4db8-ba83-6fc3d3491017
+    at src/core/manager.rs:76
+
+  2024-06-25 18:48  INFO monitor::core::manager: Task is running waiting for it to stop
+    at src/core/manager.rs:79
+
+  2024-06-25 18:48  INFO monitor::core::manager: Starting monitor
+    at src/core/manager.rs:95
+
